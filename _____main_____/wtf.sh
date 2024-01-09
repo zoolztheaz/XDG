@@ -998,8 +998,11 @@ rm -rf /root/domain
 #sudo hostnamectl set-hostname $user
 secs_to_human "$(($(date +%s) - ${start}))"
 sudo hostnamectl set-hostname $username
-echo -e "${green} install sukses ${NC}👍"
-sleep 2
+echo -e ""
+echo -e "${green} ANTOSAN SAKEDAP 4 DETIK DA ${NC}"
+sleep 4
+clear
+echo ""
 echo ""
 read -p "$( echo -e "Press ${YELLOW}[ ${NC}${YELLOW}Enter${NC} ${YELLOW}]${NC} TO REBOOT") "
 reboot
