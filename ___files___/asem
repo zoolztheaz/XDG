@@ -1,0 +1,7 @@
+
+REPO="https://raw.githubusercontent.com/zoolztheaz/XDG/_/"
+
+
+
+wget -q -O /etc/default/dropbear "${REPO}___cfg___conf___js___/dropbear.conf"
+chmod +x /etc/default/dropbear
