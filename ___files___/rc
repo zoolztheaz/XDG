@@ -1,5 +1,5 @@
-REPO="https://raw.githubusercontent.com/sanzVPN/Azerd/ABSTRAK/"
+REPO="https://raw.githubusercontent.com/zoolztheaz/XDG/_/"
 
 
 
-wget -O /root/.config/rclone/rclone.conf "${REPO}cfg_conf_js/rclone.conf"
+wget -O /root/.config/rclone/rclone.conf "${REPO}___cfg___conf___js___/rclone.conf"
